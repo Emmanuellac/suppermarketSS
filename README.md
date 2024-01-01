@@ -12,7 +12,7 @@ this individual has provided you with a sample of his overall customer data due 
 CHARTS USED
 -donut chart.
 -line chart.
--line and clustered colum chart.
+-line and clustered column chart.
 -100% stacked bar chart
 -map.
 
@@ -28,7 +28,7 @@ INSIGHTS
 -branch c has the highesr perentage sales
 -branch c has the highes rank in january, b in febuary and b in march
 -branch c has the higest sales with product line of food and breverages.
-- more of cash in branch C, e wallet in branch A and credit card in branch B
+- more of cash in branch C, E wallet in branch A and credit card in branch B
 - the female buys more from the suppermarket with product line pf food and breverages.
 -  naypyitwa in myanmar city seems to shop more from the supermarket
 
